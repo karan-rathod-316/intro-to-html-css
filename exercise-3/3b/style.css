@@ -1,0 +1,25 @@
+h1 {
+    color: blue;
+    font-size:44px;
+}
+
+.intro {
+    color:green;
+    font-size: 20px;
+}
+
+body {
+    background-color: salmon;
+}
+
+.about {
+    background-color: aqua;
+}
+
+.contact {
+    background-color:green;
+}
+
+.home {
+    background-color:grey;
+}
